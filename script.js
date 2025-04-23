@@ -38,7 +38,7 @@ const messages = [
     },
     {
         image: "images/남탓.png",
-        text: "남탓도 좀 하고, 남탓 할 수도 있지. 우린 가족이 아니니까.",
+        text: "남탓도 좀 하고, 남탓 할 수도 있지. 우린 남이니까. 우린 가족이 아니니까.",
         audio: "audio/남탓.mp3"
     }
   ];
